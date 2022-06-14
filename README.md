@@ -1,4 +1,4 @@
-# AnuncioPython
+# Anuncio de los Cursos de Python
 Pagina de anunico del Curso de Python
 
 En la segunda semana de Agosto comenzaremos con el Curso de Introducción a la Programación con Python.
