@@ -35,14 +35,10 @@ funcional.
 escritas en Fortran o C.
 CONTENIDOS
 1. Presentación  
-a. ¿Qué es Python?  
-b. Características generales de Python  
-c. Ventajas  
-d. Desventajas  
-e. Python 2 vs Python 3  
+a. ¿Qué es Python?, Características generales de Python, Ventajas, Desventajas   
 2. Tipos y estructuras de datos   
-a. Fundamentos de Python, Ejemplos  
-3. Bloques de código y estructuras de control
+a. Fundamentos de Python, Ejemplos   
+3. Bloques de código y estructuras de control  
 a. Control de Flujo, Estructuras de selección, Estructuras de control iterativas, Ejemplos  
 5. Funciones y programación estructurada  
 a. Importando Módulos, Colecciones, Ejemplos  
