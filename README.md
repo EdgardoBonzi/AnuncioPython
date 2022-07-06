@@ -34,75 +34,31 @@ funcional.
 10. Hay interfaces muy amigables para la mayoría de las librerías de uso masivo
 escritas en Fortran o C.
 CONTENIDOS
-1. Presentación
-a. ¿Qué es Python?
-b. Características generales de Python
-c. Ventajas
-d. Desventajas
-e. Python 2 vs Python 3
-2. Tipos y estructuras de datos
-a. Fundamentos de Python
-b. Ejemplos
+1. Presentación  
+a. ¿Qué es Python?  
+b. Características generales de Python  
+c. Ventajas  
+d. Desventajas  
+e. Python 2 vs Python 3  
+2. Tipos y estructuras de datos   
+a. Fundamentos de Python, Ejemplos  
 3. Bloques de código y estructuras de control
-a. Control de Flujo
-b. Estructuras de selección
-c. Estructuras de control iterativas
-d. Ejemplos
-4. Funciones y programación estructurada
-a. Importando Módulos
-b. Colecciones
-c. Ejemplos
-d. Funciones
-e. Ejemplos
-5. Operaciones de E/S y manipulación de archivos
-a. Archivos
-b. Función Open
-c. Método close()
-d. Método write()
-e. Método read()
-6. La librería algebraica Numpy
-a. Arrays
-b. Indexación de matrices
-c. Datatypes
-d. Operaciones Matemáticas en arrays
-e. Reshape
-f. Broadcasting (tentativo)
-g. Transformaciones Array/Matrix
-h. Algebra lineal
-i. Resolución de Ecuaciones Diferenciales Parciales
-7. La librería de gráficos Matplotlib
-a. Tamaño de la figura, relación de aspecto y DPI
-b. Guardando imágenes
-c. Leyendas, etiquetas y títulos
-d. Colores y tipos de marcadores de línea
-e. Rango de trazado de figuras
-f. Cuadrícula del eje
-g. Histogramas
-h. Gráficos de Barras (Bar char)
-i. Piecharts
-j. Curvas de Nivel o Mapas de Contorno
-k. Subplot
-l. Figuras en 3D
-m. Imágenes
-n. Representación gráfica de funciones y datos
-FECHA (propuesta)
-Comienza la segunda semana de Agosto 2022, y finaliza la ultima semana de Septiembre
-2022.
-DURACIÓN
-8 clases. El horario es dispusto por el interesado. Las Clases de Consulta se realizarán online los dias jueves a las 18.30 hs (GTM-3) via meet.
-LUGAR
-Mediante clases por internet (On line) mediante meet y Moodle.
-ENTORNO COMPUTACIONAL
-La mayoría de las necesidades de software son inmediatas para la gente acostumbrada al
-entorno Linux, Mac o Windows
-MODO
-El curso se basará en mostrar ejemplos de código funcionando y las actividades serán las
-de producir pequeños proyectos modificando ligeramente los mismos.
-REQUERIMIENTOS
-Tener una exposición anterior a la programación de cualquier tipo.
-CERTIFICACIÓN
-Al finalizar el curso se le entregará un certificado electrónico de participación.
-CUPOS
-El curso no tiene cupo por ser online y via Moodle.
-COSTOS: Sin Costo para alumnos de grado de la FaMAF. Otros, el costo será de pesos
-mil ($1000.00). El dinero recaudado será utilizado con fines académicos
+a. Control de Flujo, Estructuras de selección, Estructuras de control iterativas, Ejemplos  
+5. Funciones y programación estructurada  
+a. Importando Módulos, Colecciones, Ejemplos  
+b. Funciones, Ejemplos  
+5. Operaciones de E/S y manipulación de archivos  
+a. Archivos, Función Open, Método close(), Método write(), Método read()  
+6. La librería algebraica Numpy, Arrays, Indexación de matrices, Datatypes, Operaciones Matemáticas en arrays, Reshape, Transformaciones, Algebra lineal, Resolución de Ecuaciones Diferenciales Parciales  
+7. La librería de gráficos Matplotlib  
+a. Tamaño de la figura, relación de aspecto y DPI, Guardando imágenes, Leyendas, etiquetas y títulos, Colores y tipos de marcadores de línea, Rango de trazado de figuras, Cuadrícula del eje, Histogramas, Gráficos de Barras (Bar char), Piecharts, Curvas de Nivel o Mapas de Contorno, Subplot, Figuras en 3D, Imágenes, Representación gráfica de funciones y datos.
+FECHA (propuesta)  
+Comienza la segunda semana de Agosto 2022, y finaliza la ultima semana de Septiembre 2022.
+DURACIÓN: 8 clases. El horario es dispusto por el interesado. Las Clases de Consulta se realizarán online los dias jueves a las 18.30 hs (GTM-3) via meet. 
+LUGAR: Mediante clases por internet (On line) mediante meet y Moodle.
+ENTORNO COMPUTACIONAL: La mayoría de las necesidades de software son inmediatas para la gente acostumbrada al entorno Linux, Mac o Windows
+MODO: El curso se basará en mostrar ejemplos de código funcionando y las actividades serán las de producir pequeños proyectos modificando ligeramente los mismos.
+REQUERIMIENTOS: Tener una exposición anterior a la programación de cualquier tipo.  
+CERTIFICACIÓN: Al finalizar el curso se le entregará un certificado electrónico de participación.  
+CUPOS: El curso no tiene cupo por ser online y via Moodle.  
+COSTOS: Sin Costo para alumnos de grado de la FaMAF. Otros, el costo será de pesos mil ($1000.00). El dinero recaudado será utilizado con fines académicos
