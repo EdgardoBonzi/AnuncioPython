@@ -53,8 +53,7 @@ a. Archivos, Función Open, Método close(), Método write(), Método read()
 7. La librería de gráficos Matplotlib  
 a. Tamaño de la figura, relación de aspecto y DPI, Guardando imágenes, Leyendas, etiquetas y títulos, Colores y tipos de marcadores de línea, Rango de trazado de figuras, Cuadrícula del eje, Histogramas, Gráficos de Barras (Bar char), Piecharts, Curvas de Nivel o Mapas de Contorno, Subplot, Figuras en 3D, Imágenes, Representación gráfica de funciones y datos.
 
-FECHA (propuesta)  
-Comienza la segunda semana de Agosto 2022, y finaliza la ultima semana de Septiembre 2022.
+FECHA: Comienza la segunda semana de Agosto 2022, y finaliza la ultima semana de Septiembre 2022.
 DURACIÓN: 8 clases. El horario es dispusto por el interesado. Las Clases de Consulta se realizarán online los dias jueves a las 18.30 hs (GTM-3) via meet. 
 LUGAR: Mediante clases por internet (On line) mediante meet y Moodle.
 ENTORNO COMPUTACIONAL: La mayoría de las necesidades de software son inmediatas para la gente acostumbrada al entorno Linux, Mac o Windows
