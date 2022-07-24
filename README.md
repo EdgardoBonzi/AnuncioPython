@@ -60,6 +60,11 @@ a. Tamaño de la figura, relación de aspecto y DPI, Guardando imágenes, Leyend
 *CUPOS*: El curso no tiene cupo por ser online y via Moodle.  
 *COSTOS*: Sin Costo para alumnos de grado de la FaMAF. Otros, el costo será de pesos mil ($1000.00). El dinero recaudado será utilizado con fines académicos
 
+Link para la Inscripción: https://forms.gle/kEXwT8xVsEyMgscf6
+
+
+===================================================
+
 # Curso de Python Científico
 **FUNDAMENTACIÓN Y OBJETIVOS**
 En la actualidad, para realizar cálculos en ciencias, es necesario el manejo de cálculos numéricos y con uso directo de computadoras.
