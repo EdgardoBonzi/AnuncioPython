@@ -1,5 +1,5 @@
 # Curso de Introducción a la programación en Python
-Link para la Inscripción: **https://forms.gle/kEXwT8xVsEyMgscf6**
+Link para el Formulario de Inscripción: **https://forms.gle/kEXwT8xVsEyMgscf6**
 
 **FUNDAMENTACIÓN Y OBJETIVOS** 
 Python es utilizado en una gran variedad de ámbitos, y ha sido el aumento de su uso
@@ -62,7 +62,7 @@ a. Tamaño de la figura, relación de aspecto y DPI, Guardando imágenes, Leyend
 *CUPOS*: El curso no tiene cupo por ser online y via Moodle.  
 *COSTOS*: Sin Costo para alumnos de grado de la FaMAF. Otros, el costo será de pesos mil ($1000.00). El dinero recaudado será utilizado con fines académicos
 
-**Link para la Inscripción: https://forms.gle/kEXwT8xVsEyMgscf6**
+**Link para el Formulario de Inscripción: https://forms.gle/kEXwT8xVsEyMgscf6**
 
 
 ===================================================
