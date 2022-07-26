@@ -1,5 +1,7 @@
 # Curso de Introducción a la programación en Python
-Link para el Formulario de Inscripción: **https://forms.gle/kEXwT8xVsEyMgscf6**
+Link para el Formulario de Inscripción: **https://forms.gle/kEXwT8xVsEyMgscf6**  
+email: edgardo.bonzi@unc.edu.ar
+email: edgardobonzi@gmail.com
 
 **FUNDAMENTACIÓN Y OBJETIVOS** 
 Python es utilizado en una gran variedad de ámbitos, y ha sido el aumento de su uso
