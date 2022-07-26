@@ -1,6 +1,6 @@
 # Curso de Introducción a la programación en Python
 Link para el Formulario de Inscripción: **https://forms.gle/kEXwT8xVsEyMgscf6**  
-email: edgardo.bonzi@unc.edu.ar
+email: edgardo.bonzi@unc.edu.ar  
 email: edgardobonzi@gmail.com
 
 **FUNDAMENTACIÓN Y OBJETIVOS** 
