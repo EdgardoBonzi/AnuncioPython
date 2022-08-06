@@ -1,4 +1,6 @@
 # Curso de Introducción a la programación en Python
+# Inscripción Cerrada
+=====================
 Link para el Formulario de Inscripción: **https://forms.gle/kEXwT8xVsEyMgscf6**  
 Profesor Responsable: Dr. Edgardo BONZI  
 email: edgardo.bonzi@unc.edu.ar  
