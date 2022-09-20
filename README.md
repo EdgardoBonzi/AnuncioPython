@@ -1,8 +1,10 @@
 
 # Curso de Python Científico
 
-Link para el Formulario de Inscripción: **..............................**  
+Link para el Formulario de Inscripción: 
+
 **Para alumnos de Grado**: https://forms.gle/RmB6fMFaX2gMom6T9  
+
 **Para No Alumnos de Grado**: https://forms.gle/6KZ8YAJE3diPN6r56  
 
 Profesor Responsable: Dr. Edgardo BONZI  
