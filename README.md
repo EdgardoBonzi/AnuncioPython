@@ -37,9 +37,9 @@ a. Resolviendo la ecuación de Poisson, Configuración de múltiples condiciones
 d. Aplicación en electromagnetismo, Solución a la cáscara con sus hemisferios a potenciales opuestos, Visualización de armónicos esféricos, Integradores de ODEs. Potencial de dos cargas con una equipotencial esférica. El péndulo y su versión simple de oscilador armónico. Ecuación de onda, ecuaciones hiperbólicas en general. Frecuencias resonantes y vectores propios de una cavidad.
 
 *FECHA*: Comienza la primera semana de Octubre 2022, y finaliza la ultima semana de Noviembre 2022.  
-*DURACIÓN*: 8 clases de 60 minutos cada una.  
-*HORARIO*: El horario es dispusto por el interesado. Las Clases de Consulta se realizarán online los dias jueves a las 18.30 hs (GTM-3) via meet. Las clases serán grabadas y subidas al Aula Virtual Moodle, para que cada alumno lo pueda ver o rever cuando lo estime conveniente.   
-*LUGAR*: Mediante clases por internet (On line) mediante meet y Moodle.  
+*DURACIÓN*: 8 clases de 90 minutos cada una.  
+*HORARIO*: El horario es dispusto por el interesado. Las Clases se realizarán online los dias jueves a las 18.30 hs (GTM-3) via meet. Las clases serán grabadas y subidas al Aula Virtual Moodle, para que cada alumno lo pueda ver o rever cuando lo estime conveniente.   
+*LUGAR*: Mediante clases por internet (On line) Meet y Moodle.  
 *ENTORNO COMPUTACIONAL*: La mayoría de las necesidades de software son inmediatas para la gente acostumbrada al entorno Linuix, Mac o Windows.  
 *MODO*: El curso se basará en mostrar ejemplos de código funcionando y las actividades serán las de producir pequeños proyectos modificando ligeramente los mismos.  
 *REQUERIMIENTOS*: Tener una exposición anterior a la programación en Python.  
