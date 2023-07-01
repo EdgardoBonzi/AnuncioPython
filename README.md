@@ -1,6 +1,5 @@
 
-# Curso de Python Científico 
-## 2022
+# Curso de Python Científico - 2022
 
 Link para el Formulario de Inscripción: 
 
